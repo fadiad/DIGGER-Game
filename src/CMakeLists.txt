@@ -1,0 +1,13 @@
+﻿target_sources (SFMLExamples PRIVATE "main.cpp"
+                                     "Game.cpp"
+                                     "moveable.cpp"
+                                     "unmoveable.cpp"
+                                     "object.cpp"
+                                     "Diamond.cpp"
+                                     "Digger.cpp"
+                                     "Settings.cpp"
+                                     "Monster.cpp"
+                                     "Rock.cpp"
+                                     "Wall.cpp"
+                                     "Controller.cpp"
+                                     "status.cpp")
